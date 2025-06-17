@@ -64,7 +64,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue pour 
 
 ---
 ### Auteurs :
-- RADJOU Dinesh
+- [*RADJOU Dinesh*](https://dineshradj.eu)
 - DELAROQUE Joel
 
 ---
